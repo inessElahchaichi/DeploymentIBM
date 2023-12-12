@@ -1,1 +1,1 @@
-#Deploy a model with Watson Machine Learning
+Deploy a model with Watson Machine Learning
