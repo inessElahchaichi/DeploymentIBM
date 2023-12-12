@@ -3,9 +3,9 @@
     <div class="container">
         <h1 class="title">Deploy a Model with IBM Watson Machine Learning</h1>
         <div class="section">
-            <div class="section-title">Requirements </div>
+            <div class="section-title">Requirements : </div>
             <div class="section-content">
-                <p>An IBM Cloud Account + an executable .</p>
+                <p>An IBM Cloud Account </p>
                 
 ![1LOGIN](https://github.com/inessElahchaichi/DeploymentIBM/assets/115805947/abeb4de5-45da-425c-998d-e241cb936efa)
             </div>
