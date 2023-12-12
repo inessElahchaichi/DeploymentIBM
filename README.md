@@ -54,7 +54,7 @@
         </div>
     </div>
 <div class="section">
-    <div class="section-title">Troubleshooting the Final Step</div>
+    <div class="section-title"style="font-size: 28px;">Troubleshooting the Final Step</div>
     <div class="section-content">
         <p>If you encountered issues with the final step, don't worry; here's an alternative solution. During the deployment process, you will come across a Python code snippet. Copy this code snippet.</p>
         <p>Remember the API key we downloaded earlier? You'll need to incorporate the information from that downloaded file into the Python code. Import the JSON library and modify the code according to your requirements.</p>
