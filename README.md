@@ -3,12 +3,11 @@
     <div class="container">
         <h1 class="title">Deploy a Model with IBM Watson Machine Learning</h1>
         <div class="section">
-            <div class="section-title">Requirements : </div>
+            <div class="section-title">Requirements:</div>
             <div class="section-content">
-                <p> An IBM Watson Machine Learning Instance : You need to have an active instance of IBM Watson Machine Learning service in your IBM Cloud account  </p>
-                  <p>  Patience (طول البال): Remember, deploying a model and working with new technologies can sometimes be challenging. Patience is key! If you encounter difficulties, take a deep breath, review the steps, and remember that learning and troubleshooting are all part of the journey in technology.  </p>
-                <p>    Compatible Data and Model Files: Ensure you have the necessary data and model files, typically in formats that are compatible with IBM Watson Machine Learning (like .ipynb for Jupyter notebooks).
-                    </p>
+                <p>An IBM Watson Machine Learning Instance: You need to have an active instance of IBM Watson Machine Learning service in your IBM Cloud account.</p>
+                <p>Patience (طول البال): Remember, deploying a model and working with new technologies can sometimes be challenging. Patience is key! If you encounter difficulties, take a deep breath, review the steps, and remember that learning and troubleshooting are all part of the journey in technology.</p>
+                <p>Compatible Data and Model Files: Ensure you have the necessary data and model
                 
 ![1LOGIN](https://github.com/inessElahchaichi/DeploymentIBM/assets/115805947/abeb4de5-45da-425c-998d-e241cb936efa)
             </div>
