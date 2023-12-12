@@ -46,12 +46,20 @@
         <div class="section">
             <div class="section-title">Final Step</div>
             <div class="section-content">
-                <p>Deploy the application on IBM Cloud through this [link](#). This option sets up a deployment pipeline, including a hosted Git lab project and a DevOps toolchain. After updating, the application will restart, and you can access it by clicking on the "Visit App URL" option.</p>
+                <p>Deploy the application on IBM Cloud through this https://cloud.ibm.com/devops/getting-started?env_id=ibm:yp:eu-de . This option sets up a deployment pipeline, including a hosted Gitlab project and a DevOps toolchain. After updating, the application will restart, and you can access it by clicking on the "Visit App URL" option.</p>
 
 ![last3](https://github.com/inessElahchaichi/DeploymentIBM/assets/115805947/b990ed27-144f-4253-9abd-76dd93393976)
 ![last4](https://github.com/inessElahchaichi/DeploymentIBM/assets/115805947/7aeb8e30-b500-47f3-bec2-7f5598329a7b)
             </div>
         </div>
     </div>
+<div class="section">
+    <div class="section-title">Troubleshooting the Final Step</div>
+    <div class="section-content">
+        <p>If you encountered issues with the final step, don't worry; here's an alternative solution. During the deployment process, you will come across a Python code snippet. Copy this code snippet.</p>
+        <p>Remember the API key we downloaded earlier? You'll need to incorporate the information from that downloaded file into the Python code. Import the JSON library and modify the code according to your requirements.</p>
+        <p>If you are comfortable with programming languages other than Python, explore the code fragments provided. You may find alternative solutions in languages other than Python to resolve any issues.</p>
+    </div>
+</div>    
 </body>
 </html>
