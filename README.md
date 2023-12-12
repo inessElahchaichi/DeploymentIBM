@@ -1,35 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        .title {
-            font-size: 24px;
-            margin-bottom: 20px;
-        }
-        .step {
-            margin-bottom: 20px;
-        }
-        .step-title {
-            font-weight: bold;
-        }
-        .step-description {
-            margin-left: 20px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
