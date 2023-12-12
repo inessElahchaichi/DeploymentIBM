@@ -4,13 +4,12 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="title">README</h1>
+        <h1 class="title">Deploy a model with IBM Watson Machine Learning </h1>
         <div class="step">
             <div class="step-title">Prerequisites:</div>
             <div class="step-description">
                 <ol>
                     <li><a href="#">Sign up for an IBM Cloud Account</a></li>
-                    <li><a href="#">Create an account on IBM Cloud Pak for Data</a></li>
                 </ol>               
             </div>
         </div>
