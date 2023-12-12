@@ -3,9 +3,9 @@
     <div class="container">
         <h1 class="title">Deploy a Model with IBM Watson Machine Learning</h1>
         <div class="section">
-            <div class="section-title">Requirements</div>
+            <div class="section-title">Requirements </div>
             <div class="section-content">
-                <p>An IBM Cloud Account.</p>
+                <p>An IBM Cloud Account + an executable .</p>
                 
 ![1LOGIN](https://github.com/inessElahchaichi/DeploymentIBM/assets/115805947/abeb4de5-45da-425c-998d-e241cb936efa)
             </div>
@@ -54,7 +54,7 @@
         </div>
     </div>
 <div class="section">
-     ## Troubleshooting the Final Step
+    <div class="section-title">Troubleshooting the Final Step </div>
     <div class="section-content">
         <p>If you encountered issues with the final step, don't worry; here's an alternative solution. During the deployment process, you will come across a Python code snippet. Copy this code snippet.</p>
         <p>Remember the API key we downloaded earlier? You'll need to incorporate the information from that downloaded file into the Python code. Import the JSON library and modify the code according to your requirements.</p>
